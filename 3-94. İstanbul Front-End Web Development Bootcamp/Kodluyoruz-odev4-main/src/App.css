@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.input-area {
+  display: flex;
+  flex-direction: column;
+}
+
+.error {
+  color: red;
+}
